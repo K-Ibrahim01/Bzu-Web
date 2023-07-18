@@ -1,0 +1,131 @@
+.body
+{
+    
+}
+/* .nav
+{
+    background-color: rgb(14, 41, 84);
+    width:1500px;
+    height:100px;
+}  */
+#logo
+{
+    background-color:rgb(46, 138, 153);
+    height: 100px;
+    position: relative;
+    top:5px;
+    left:-5px;
+}
+/* #Name
+{
+    position: relative;
+    top:-60px;
+    left:100px;
+    font-weight: 600;
+    font-size: large;
+} */
+#nav_1
+{
+    background-color: rgb(15, 14, 14);
+    height:63px;
+    width: 1270spx;
+    position: relative;
+    left:-8px;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-evenly;
+}
+.tags
+{
+    color: whitesmoke;
+    text-decoration: none;
+    position: relative;
+    top:22px;
+
+}
+.upperbound
+{
+  font-weight: bolder;
+  position: relative;
+  top:-70px;
+  font-size: larger;
+  color: rgb(42, 33, 77);
+  
+}
+.container_upperbound
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.upperbound_tag
+{
+    text-decoration: none;
+}
+#welcome_heading_underbound
+{
+    font-size: xx-large;
+    position: relative;
+    top: -170px;
+    left:50px;
+    display:inline;
+}
+/* #underbound_para
+{
+    position: relative;
+    left:0px;
+    top:-180px;
+    font-size:x-large;
+    font-style: obliques;
+    display:inline;
+} */
+#vice_chans
+{
+    position: relative;
+    right: 0px;
+    left: 250px;
+    top:230px;
+    display: inline;
+}
+#Meet
+{
+    position: relative;
+    left:1040px;
+    right:0px;
+    bottom: 250px;
+    font-weight:bolder ;
+    font-size: large;
+}
+#name
+{
+  background-color:rgb(42, 33, 77);
+  color: whitesmoke;
+  display: inline-block;
+  padding: 1%;
+  position: relative;
+  left:826px;
+  right:110px;
+  width: 200px;
+  text-align: center;
+  
+}
+/* .ticker
+{
+    background-color:black;
+} */
+#marquee
+{
+    color: whitesmoke;
+    position: relative;
+    top:5px;
+}
+#slider
+{
+    background-color: blue;
+    width:800px;
+    height:400px;
+    margin:0px;
+    margin-top: 30px;
+    position:relative;
+    top:-250px;
+}
